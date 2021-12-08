@@ -1,0 +1,10 @@
+checkpoint/
+__pycache__/
+data_partten/
+image/
+models/
+paper/
+venv/
+video/
+defaults.py 
+mp42mp3.py
